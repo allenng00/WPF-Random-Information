@@ -1,0 +1,23 @@
+﻿<Window x:Class="InspirationalQuotes.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:InspirationalQuotes"
+        mc:Ignorable="d"
+        Title="InspirationalQuotes" Height="750" Width="500">
+    <Window.Icon>
+        <BitmapImage UriSource="Images/Icon01.ico" RenderOptions.BitmapScalingMode="HighQuality"/>
+    </Window.Icon>
+    <Canvas RenderTransformOrigin="0.464,0.418" Margin="0,0,-0.4,-19.2">
+        <Image Name="quoteImage" 
+               Width="394" Height="403" 
+               Canvas.Left="50" Canvas.Top="123"/>
+        <Button Content="Next" FontFamily="Consolas"  Background="#FF76EDE6"
+                Click="infoButton_Click"
+                Name="infoButton"
+                Width="92" Height="28" 
+                Canvas.Left="207" Canvas.Top="609" FontWeight="Bold" FontSize="14" TextOptions.TextFormattingMode="Display" HorizontalAlignment="Center"/>
+
+    </Canvas>
+</Window>
