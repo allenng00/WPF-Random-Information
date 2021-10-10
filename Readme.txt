@@ -1,10 +1,5 @@
-A. Thông tin sinh viên:
-	- Họ & tên: Nguyễn Hoàng Khang
-	- MSSV: 18120039
-	- Email + sinh viên: 18120039@student.hcmus.edu.vn
-		+ cá nhân: n.hoangkhang23122015@gmail.com
 
-B. Project InspirationalQuotes
+A. Project01: InspirationalQuotes
 
 	1. Các chức năng đã làm được
 	- Hoàn thành chương trình hiển thị ngẫu nhiên một hình có câu nói tạo động lực.
@@ -21,7 +16,7 @@ B. Project InspirationalQuotes
 
 	5. Điểm đề nghị cho bài tập: 100%
 
-C. Project02: English By Images
+B. Project02: English By Images
 	1. Các chức năng đã làm được
 	- Hoàn thành chương trình hiển thị ngẫu nhiên một hình có câu nói tạo động lực.
 	- Tổng cộng 18 hình ảnh kèm 18 từ tiếng anh (phiên âm, loại từ, nghĩa).
@@ -37,4 +32,4 @@ C. Project02: English By Images
 
 	5. Điểm đề nghị cho bài tập: 100%
 
-D. Link youtube demo: https://youtu.be/Eh202sH6Vic
+C. Link youtube demo: https://youtu.be/Eh202sH6Vic
